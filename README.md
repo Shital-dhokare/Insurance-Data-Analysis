@@ -36,9 +36,8 @@ It focuses on:
 - Monthly & yearly trends
 
 ### Dashboard Preview
-[Business Dashboard](paste-your-dashboard-link-here)
+Tableau_bsp_Dashboard.png
 
-![Business Dashboard](business_dashboard.png)
 
 ---
 
@@ -49,9 +48,7 @@ It focuses on:
 - Performance trends
 
 ### Dashboard Preview
-[Executive Dashboard](paste-your-dashboard-link-here)
 
-![Executive Dashboard](executive_dashboard.png)
 
 ---
 
