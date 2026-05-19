@@ -36,7 +36,7 @@ It focuses on:
 - Monthly & yearly trends
 
 ### Dashboard Preview
-Tableau_bsp_Dashboard.png
+![Business Dashboard]()
 
 
 ---
