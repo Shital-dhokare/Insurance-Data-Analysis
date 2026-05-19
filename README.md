@@ -36,7 +36,7 @@ It focuses on:
 - Monthly & yearly trends
 
 ### Dashboard Preview
-![Business Dashboard](https://github.com/Shital-dhokare/Insurance-Data-Analysis/blob/819a41b76d7de07bb30481fd5592020f2eba4cbe/Tableau_bsp_Dashboard.png)
+![Business Dashboard](Tableau_bsp_Dashboard.png)
 
 
 ---
