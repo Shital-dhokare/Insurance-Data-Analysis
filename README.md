@@ -63,12 +63,8 @@ It focuses on:
 ## Project Structure
 
 ```text
-Dataset/
-SQL/
-Excel-Dashboard/
-Tableau-Dashboard/
-PowerBI-Dashboard/
-Dashboard-Screenshots/
+Dataset/SQL/Excel-Dashboard/Tableau-Dashboard/PowerBI-Dashboard/Dashboard-Screenshots/
+
 ```
 
 ---
